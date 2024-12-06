@@ -1,0 +1,14 @@
+Fazer análise descritiva dos dados mostrando janelas com chuvas e sem chuva, assim como janelas com alagamentos e sem.
+Mostrar quantos alagamentos são únicos (fazem parte de uma mesma janela de tempo).
+Verificar quantos tweets se tem por janela.
+Verificar tamanho de janelas de alagamentos.
+
+Extrair dados de pluviômetros do primeiro trimestre de 2016/2017/2018 etc visto que é o período onde mais chove.
+Verificar chuvas ao longo do ano para entender possível viés ao se analisar dados de chuva fora de época.
+
+Verificar alagamentos em uma janela de tamanho 6 (60 min/1hr) iterando de 1 em 1 janela.
+Eventualmente tentar verificar uma janela de tamanho 3 (30 min).
+
+Baixar sumário dos artigos e jogar na openAI para obter os mais relevantes.
+
+ESTUDAR: time series windowing neural network
