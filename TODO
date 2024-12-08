@@ -1,7 +1,10 @@
-Fazer análise descritiva dos dados mostrando janelas com chuvas e sem chuva, assim como janelas com alagamentos e sem.
-Mostrar quantos alagamentos são únicos (fazem parte de uma mesma janela de tempo).
-Verificar quantos tweets se tem por janela.
-Verificar tamanho de janelas de alagamentos.
++ Fazer análise descritiva dos dados mostrando janelas com chuvas e sem chuva, assim como janelas com alagamentos e sem.
++ Mostrar quantos alagamentos são únicos (fazem parte de uma mesma janela de tempo).
++ Verificar quantos tweets se tem por janela.
+
+- Verificar tamanho de janelas de alagamentos.
+
++ Verificar fuso-horário de tweets e dados pluviométricos. Analise: tweets e pluvios estão no fuso UTC, alagamentos em GMT-3.
 
 Extrair dados de pluviômetros do primeiro trimestre de 2016/2017/2018 etc visto que é o período onde mais chove.
 Verificar chuvas ao longo do ano para entender possível viés ao se analisar dados de chuva fora de época.
