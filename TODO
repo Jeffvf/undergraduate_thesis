@@ -15,3 +15,11 @@ Eventualmente tentar verificar uma janela de tamanho 3 (30 min).
 Baixar sumário dos artigos e jogar na openAI para obter os mais relevantes.
 
 ESTUDAR: time series windowing neural network
+
+- Fazer uma rede MLP utilizando pytorch
+
+- Utilizar ambos os pluvios para treinar a rede, onde em uma janela de tamanho 5
+se utiliza 5 janelas de cada um, obtendo uma janela de tamanho 10 e ao final verificar se houve alagamento nessa janela.
+Verificar o rotulo unico gerado na janela com os rotulos originais de ambos.
+
+- Analisar e manipular minusciosamente os dados antes de treinar o modelo.
