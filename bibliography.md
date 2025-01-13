@@ -8,10 +8,10 @@ Obs: Usar apenas artigos para compor a tabela. Já revisões sistemáticas para 
 2. [Fast simulation and prediction of urban pluvial floods using a deep convolutional neural network model](https://www.sciencedirect.com/science/article/abs/pii/S0022169423008879)
 3. [Application of Long Short-Term Memory (LSTM) Networks for Flood Forecasting](https://doi.org/10.3390/w11071387)  
 4. [Particle Swarm Optimization Based LSTM Network for Flood Prediction](https://doi.org/10.1016/j.rineng.2023.100951)  
-5. [Big Data Analytics and Its Role to Support Growth in Flood Risk Management](https://doi.org/10.3390/w12102796)  
-6. [Prediction of Flood Discharge Using Hybrid PSO-ANN Model](https://doi.org/10.1016/j.mex.2023.102060)  
-7. [Machine Learning Methods in Weather and Climate Forecasting](https://doi.org/10.3390/app132112019)  
-8. [Prediction of Flood Using Optimized Neural Networks](https://doi.org/10.15551/pesd2021152004)  
+5. [Prediction of Flood Discharge Using Hybrid PSO-ANN Model](https://doi.org/10.1016/j.mex.2023.102060)  
+6. [Prediction of Flood Using Optimized Neural Networks](https://doi.org/10.15551/pesd2021152004)
+7. [Fast Prediction of Urban Flooding Water Depth Based on CNN−LSTM](https://www.mdpi.com/2073-4441/15/7/1397)
+8. [A spatial–temporal graph deep learning model for urban flood nowcasting leveraging heterogeneous community features](https://www.nature.com/articles/s41598-023-32548-x)
 
 ## Revisões literárias
 1. [The State of the Art in Deep Learning Applications, Challenges, and Future Prospects: A Comprehensive Review of Flood Forecasting and Management](https://www.mdpi.com/2071-1050/15/13/10543)
