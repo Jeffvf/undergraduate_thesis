@@ -1,4 +1,4 @@
-# [Prediction of Flood Discharge Using Hybrid PSO-ANN Model](https://doi.org/10.1016/j.mex.2023.102060) 
+# [Prediction of Flood Discharge Using Hybrid PSO-ANN Model](https://www.sciencedirect.com/science/article/pii/S2215016123000638) 
 
 ## Sobre
 O estudo explora o uso do algoritmo híbrido PSO-SVM (Particle Swarm Optimization - Support Vector Machine) para prever a descarga de enchentes no Rio Barak, na Índia. O modelo combina o SVM, reconhecido por sua capacidade de resolver problemas não-lineares, com o PSO, que otimiza os parâmetros do SVM (como o núcleo e o coeficiente de regularização). Dados meteorológicos e hidrológicos, como precipitação, temperatura, radiação solar, umidade e perda de evapotranspiração, foram utilizados para modelar a descarga mensal do rio entre 1969 e 2018. Os resultados indicam que o PSO-SVM superou o SVM convencional e o BPNN (Backpropagation Neural Network), tanto em precisão quanto em consistência.
