@@ -1,0 +1,15 @@
+não apagar resultados dos testes, refazer testes sem oversampling
+
+conjunto de treino, teste e validação
+separar dados em 80/20 para desenvolvimento (treino e validação) e os outros 20 para teste
+conjunto de teste: usado no modelo definitivo apenas
+
+treinar lstm com numero de camadas 1 e 2
+neuronios 32, 64 e 128
+
+livro goodfellow: https://www.deeplearningbook.org/
+ler cap 5
+seção 5.3 (importante)
+
+mover revisao da literatura para fundamentação teórica
+adicionar seção falando de modelos MLP e LSTM antes de falar dos modelos usados em desastres
